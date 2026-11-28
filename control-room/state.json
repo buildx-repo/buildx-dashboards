@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-27T23:59:23",
+  "as_of": "2026-11-28T00:14:25",
   "agents": [
     {
       "agent": "nas-media",
       "display_name": "BuildX.ai NAS Media Agent",
       "role": "Server - footage custodian",
       "status": "error",
-      "last_run": "2026-11-27T00:01:02",
+      "last_run": "2026-11-28T00:01:01",
       "last_result": "report built + emailed",
-      "next_run": "2026-11-28T00:00:00",
+      "next_run": "2026-11-29T00:00:00",
       "message": "Storage pool reuse_1 status is 'background_scrubbing' (not normal).",
       "needs_human": [
         "Storage pool reuse_1 status is 'background_scrubbing' (not normal).",
@@ -24,8 +24,8 @@
         "used_pct": 73.0,
         "free_tb": 9.28,
         "files": 79489,
-        "new24": 21,
-        "ping_ms": 0.0
+        "new24": 13,
+        "ping_ms": 1.0
       },
       "have": [
         "Z:/_MEDIA_INDEX + laptop BuildX-Index/ (6220 files indexed)",
